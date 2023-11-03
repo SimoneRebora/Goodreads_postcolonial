@@ -1,6 +1,6 @@
 # GoodreadsPostcolonial
 
-Scripts for the paper:
+Scripts for the paper:  
 Gabriele Vezzani and Simone Rebora, "Empathic Engagement and Aesthetic Appreciation Between Readers' Ethnicity and Narratives' Literary Prestige", presented at the *DHASA2023 Conference*
 
 ## Instructions
