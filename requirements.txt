@@ -1,0 +1,17 @@
+langdetect==1.0.9
+matplotlib==3.7.2
+nltk==3.8.1
+numpy==1.23.1
+pandas==1.4.3
+pycountry==22.3.5
+Requests==2.31.0
+scipy==1.11.1
+seaborn==0.12.2
+selenium==4.11.2
+spacy==3.6.0
+tensorflow==2.13.0
+tensorflow_macos==2.13.0
+tqdm==4.64.0
+transformers==4.20.1
+statsmodels==0.13.2
+geopandas==0.13.2

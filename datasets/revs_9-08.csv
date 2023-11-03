@@ -1,0 +1,3 @@
+,id,link,date,review,rating,book_title,country
+0,reviewer1,reviewer1_link,"January 1, 2000",review text,Rating 1 out of 5,Book1,united states
+1,reviewer2,reviewer2_link,"January 2, 2001",review text,Rating 5 out of 5,Book2,south africa

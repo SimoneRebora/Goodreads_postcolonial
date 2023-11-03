@@ -1,0 +1,6 @@
+category1,category2,category3
+word1,word3,word4
+word2,stem1*,word5
+word3,word4,stem3*
+stem1*,stem2*,
+word4,,
