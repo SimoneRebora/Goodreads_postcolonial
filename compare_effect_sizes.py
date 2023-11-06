@@ -21,7 +21,7 @@ colonized = ['tunisia', 'philippines', 'zimbabwe', 'nigeria', 'zambia', 'ghana',
              'jordan', 'lebanon', 'lesotho', 'malawi', 'malaysia', 'morocco', 'mozambique', 'namibia', 'nicaragua',
              'nigeria', 'philippines', 'rwanda', 'senegal', 'seychelles', 'sierra leone', 'somalia',
              'sri lanka', 'sudan', 'togo', 'tunisia', 'uganda', 'uruguay', 'libya']
-south_africa = ['south africa', 'south sudan', 'zimbabwe']
+south_africa = ['south africa', 'botswana', 'zimbabwe', 'lesotho']
 
 # create two groups based on post-colonial countries
 group = []
